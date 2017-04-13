@@ -14,7 +14,7 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 
 Arjun Baghela / University of British Columbia / 
 
-Celia Siu / University of British Columbia / 
+Celia Siu / University of British Columbia / [@celiassiu](https://twitter.com/celiassiu)
 
 Dan Fornika / Simon Fraser University / 
 
