@@ -24,7 +24,7 @@ Jasleen Grewal / University of British Columbia /
 
 Laura Gutierrez Funderburk / Simon Fraser University / 
 
-Lauren Chong / University of British Columbia / 
+Lauren Chong / BC Cancer Agency / [@lcchong](https://twitter.com/lcchong)
 
 Vienna Lam / Simon Fraser University / 
 
