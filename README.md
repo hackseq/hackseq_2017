@@ -18,7 +18,7 @@ Celia Siu / University of British Columbia / [@celiassiu](https://twitter.com/ce
 
 Dan Fornika / Simon Fraser University / 
 
-Jake Lever / University of British Columbia / 
+Jake Lever / University of British Columbia / [@jakelever0](https://twitter.com/jakelever0)
 
 Jasleen Grewal / University of British Columbia / 
 
