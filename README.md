@@ -12,7 +12,7 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 
 ## Steering Committee members
 
-Arjun Baghela / University of British Columbia / 
+Arjun Baghela / University of British Columbia / [@abaghela](https://twitter.com/arjunsbaghela)
 
 Celia Siu / University of British Columbia / [@celiassiu](https://twitter.com/celiassiu)
 
