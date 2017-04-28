@@ -16,7 +16,7 @@ Arjun Baghela / University of British Columbia / [@abaghela](https://twitter.com
 
 Celia Siu / University of British Columbia / [@celiassiu](https://twitter.com/celiassiu)
 
-Dan Fornika / Simon Fraser University / 
+Dan Fornika / Fusion Genomics / [@dfornika](https://twitter.com/celiassiu)
 
 Jake Lever / University of British Columbia / [@jakelever0](https://twitter.com/jakelever0)
 
