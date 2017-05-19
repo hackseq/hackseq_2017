@@ -1,4 +1,4 @@
-# hackeq_2017
+# hackseq_2017
 Public files and discussions about hackseq 2017 by the steering committee!
 
 ## When? Where? What?  
