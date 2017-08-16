@@ -17,7 +17,7 @@ Location: Smith Room, Genome Sciences Centre | Attending: Jake, Lauren, Dan, Jas
 - She will be out of town September 2nd to 10th.
 
 ### Jasleen
-- Suggests reaching out to AMW for money (Jake will look into)
+- Suggests reaching out to AMS for money (Jake will look into)
 - It will cost $350 for Wifi with a custom SSID at the LSI
 - We will negotiate for internet ports at the LSI given issues last year
 - Needs to confirm security requirements for the LSI as it's a weekend and security would need to open up and close the building.
