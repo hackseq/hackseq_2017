@@ -9,7 +9,7 @@ Location: Smith Room, Genome Sciences Centre | Attending: Lauren, Dan, Jasleen |
 
 ### Dan  
 - No updates.  
-- Poste meeting recollection by Jasleen: @dfornika any updates on the Google Cloud contact for sponsorship?  
+- Poste meeting recollection by Jasleen: Dan - any updates on the Google Cloud contact for sponsorship?  
 
 ### Jasleen  
 - Jasleen contacted the AMS Student Services regarding sponsoring food, and they suggested she get in touch with the VP Administration. Jasleen and Dan will follow-up.  **TO DO**   
@@ -41,7 +41,7 @@ Location: Smith Room, Genome Sciences Centre | Attending: Lauren, Dan, Jasleen |
 - By then we will also have a better idea on the number of virtual participants, and how to split them (based on feedback from the team leads).  
 
 ## Contacting Food Stores  
-- Jasleen will look into what is required for contacting store managers (do we just ask them for free food?). @jakelever, any thoughts appreciated.  
+- Jasleen will look into what is required for contacting store managers (do we just ask them for free food?). Jake, any thoughts appreciated. **TO DO**  
 - Subsequently Jasleen will follow-up with Save On Foods at Cambie&Broadway, Dan with Safeway at City Square, Lauren with No Frills at UBC.  
 
 ## Socials for HackSeq  
@@ -50,9 +50,9 @@ Location: Smith Room, Genome Sciences Centre | Attending: Lauren, Dan, Jasleen |
 - Oct 22nd: Closing social. Jasleen will look into where this can be organized, and the cost (maximum allocation of $300-400 at the moment). **TO DO**  
  
 ## Additional Discussion Items  
-- We should have a Facebook event page. @abagehala should set this up. **TO DO**  
+- We should have a Facebook event page. Arjun should set this up. **TO DO**  
 	- We also need to compare the number of people we have signed up, versus the requirements for the number required per project. Lauren will compare the counts as given by the team leads. **TO DO**   
-- For the VanBUG shoutout, do we have a prepared slide we can put up @jakelever ? Dan or Lauren will be doing this, as Jasleen has a meeting elsewheres during that time.  
+- For the VanBUG shoutout, do we have a prepared slide we can put up, Jake? Dan or Lauren will be doing this, as Jasleen has a meeting elsewheres during that time. **TO DO**  
 - CDL email followup: too late for this, the deadline was September 8th, plus it sounded like they were recruiting HackSeq as a project, not as a hackathon?   
 
 ** THE NEXT MEETING WILL BE ON SEPTEMBER 26, 2017 | TUESDAY **  
