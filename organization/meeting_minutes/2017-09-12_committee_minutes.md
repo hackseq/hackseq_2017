@@ -55,4 +55,4 @@ Location: Smith Room, Genome Sciences Centre | Attending: Lauren, Dan, Jasleen |
 - For the VanBUG shoutout, do we have a prepared slide we can put up @jakelever ? Dan or Lauren will be doing this, as Jasleen has a meeting elsewheres during that time.  
 - CDL email followup: too late for this, the deadline was September 8th, plus it sounded like they were recruiting HackSeq as a project, not as a hackathon?   
 
-
+** THE NEXT MEETING WILL BE ON SEPTEMBER 26, 2017 | TUESDAY **  
