@@ -23,7 +23,7 @@ A few participants with mistakenly listed 'local participant' preference were id
 - Email team leads with the participant composition (first reach out to 'over-assigned' teams).  
 - Once this is confirmed, let Arjun and Celia know so they can notify participants.  
 - Managing virtual participants: Verify if the smaller rooms that we have booked at the LSI have videolinking.  
-- Set up Github topic about what volunteers did last year / follow up with last year's organizers. ** Done, updated **.  
+- Set up Github topic about what volunteers did last year / follow up with last year's organizers. **Done, updated**.  
 - Organize Thursday Social (max budget $800).  
 - Confirm UBC IT and UBC Security.  
 
@@ -42,5 +42,5 @@ A few participants with mistakenly listed 'local participant' preference were id
 - Update on the coffee sponsorships?  
 - Update on Facebook page and outreach  
 
-** THE NEXT MEETING WILL BE ON OCTOBER 5TH, 2017 | THURSDAY **    
+**THE NEXT MEETING WILL BE ON OCTOBER 5TH, 2017 | THURSDAY**    
 
