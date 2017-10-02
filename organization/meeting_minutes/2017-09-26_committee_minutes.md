@@ -3,7 +3,8 @@ Location: Smith Room, Genome Sciences Centre | Attending: Lauren, Dan, Celia, Ar
 
 ## General updates   
 ### Participant assignment  
-Participants were assigned to different teams with the following criteria (in decreasing order of preference):
+Participants were assigned to different teams with the following criteria (in decreasing order of preference):  
+
 i) Participants' listed 1st preference  
 ii) Participant skill level (with the aim to have a balanced team composition)  
 iii) Participants' listed 2nd and 3rd preference  
