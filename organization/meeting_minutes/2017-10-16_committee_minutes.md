@@ -21,6 +21,7 @@ Location: Smith Room, Genome Sciences Centre | Attending: Lauren, Celia, Jake, J
 - **The Team** will be figure out the voting system during the event
 - **Jake** & **Jasleen** will figure out questions for the virtual participant survey (that will be there each day) before the end of Friday
 - **The Team** will discuss our own F1000 paper
+- **The Team** check in with team leads to see who showed up (virtual or not) each day
 
 ## Minutes
 
