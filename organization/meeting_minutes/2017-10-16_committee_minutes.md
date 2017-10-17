@@ -70,6 +70,7 @@ Location: Smith Room, Genome Sciences Centre | Attending: Lauren, Celia, Jake, J
   - Suggest use the morning to plan out their project
   - Mention formal & informal socials
 - Media release
+- Twitter
 - Talk about F1000 papers
   - Each team needs to nominate a writer
   - Writers meeting at 3pm today
