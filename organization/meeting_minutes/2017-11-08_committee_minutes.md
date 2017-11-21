@@ -1,0 +1,46 @@
+# Hackseq Committee Meeting - 8th November 2017
+Location: Smith Room, Genome Sciences Centre | Attending: Lauren, Celia, Jake, Jasleen, Dan, Arjun
+
+- Various supplies (e.g. poster boards) will be stored in Jake's office
+- Giftcards
+  - Lauren has sorted out the prizes for the winning teams
+  - Jasleen will give the photographer a Starbucks card
+  - Chantal will be given the final Starbucks card for helping out on the day
+- Finances
+  - Everyone will be giving Arjun their expense forms for him to file
+  - Will scan receipts after meeting for records (and for filing AMS student initiative fund application)
+- Sponsors
+  - NEB sent a check and Arjun will confirm this
+  - Jake has thanked sponsors and completed feedback form for MSFHR.
+  - Jake will write up a blog for NumFOCUS (as requested by them) with photos provided by Celia
+  - Jake will also fill out AMS student initiative fund application
+- Discussion on improvements for future Hackseqs
+  - Should we do virtual participants differently?
+    - Some groups went really well while other struggled
+    - Perhaps limit the number of virtual participants? Or work with team leads to get a limit from them (e.g. 0 to 2).
+    - Is there any way to vet them better?
+    - Should we charge for applications so people take it more seriously? Could stop dropouts but may discourage applications.
+    - Perhaps make the application more in-depth? It may be difficult to evaluate the applications and would likely discourage applications.
+    - Perhaps have a pre-event a few weeks before hackseq. The teams could have teleconferences to talk about the background of the project and do some minor planning. We could then filter out people who don't show up to that.
+  - Might want more organisers next year.
+  - Could have done a better job matching skill sets to teams. An R project really should have people that are comfortable with R.
+  - Volunteers are likely not necessary if most of organisers are not participating
+  - The WiFi was reliable again. Don't need the ethernet option in future
+  - The writing group idea seemed to go down well. Suggest that is kept.
+  - ORCA wasn't really used by teams. Perhaps do it by request or only have one login per team to reduce effort by ORCA team
+  - Should it cover more than genomics?
+  - General feeling that three days was a good length, but perhaps start on Saturday
+  - Maybe we should facilitate teams that want longer days?
+- Website changes (to reflect the success of hackseq17)
+  - Jasleen will make more changes to the website
+  - The cost of upgrading to more pages doesn't seem worth it at the moment
+- Ubyssey article
+  - Article is out and is great!
+- Survey response
+  - Will organise a meeting in December to discuss what analysis we would like to do with the captured data
+- Organising Committee for hackseq18
+  - Start looking in January
+- Discussion about Artem's proposal to submit paper elsewhere
+  - Agreement that the venue needs to be open-access and not too expensive. We decide to limit funding for an individual paper to $500.
+- Next meeting
+  - Will organise dinner with previous organiser to talk future of Hackseq
